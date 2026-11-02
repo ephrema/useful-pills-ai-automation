@@ -1,0 +1,9 @@
+{
+  "channel_name": "Useful Pills AI",
+  "timezone": "Africa/Addis_Ababa",
+  "long_publish_hour": 18,
+  "short_publish_hour": 20,
+  "gemini_model": "gemini-2.5-flash",
+  "video_format_long": "1920x1080",
+  "video_format_short": "1080x1920"
+}
